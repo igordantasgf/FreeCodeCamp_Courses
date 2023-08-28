@@ -1,2 +1,2 @@
-# MLPython_FreeCodeCamp
-Notes, codes and solutions made in the Machine Learning with Python course on FreeCodeCamp
+# FreeCodeCamp Courses
+Notes, codes and solutions made in the Machine Learning with Python Course and Data Analysis Course on FreeCodeCamp
